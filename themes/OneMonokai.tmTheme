@@ -53,6 +53,9 @@
         <dict>
           <key>foreground</key>
           <string>#5c6370</string>
+          <!--<string>#8d929b</string>-->
+          <key>fontStyle</key>
+          <string>bold</string>
         </dict>
       </dict>
       <dict>
@@ -251,6 +254,8 @@
         <dict>
           <key>foreground</key>
           <string>#d19a66</string>
+          <key>fontStyle</key>
+          <string>bold</string>
         </dict>
       </dict>
       <dict>
